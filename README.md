@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Golang, NEXTJs, Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AMANVISHWAKARMA27](https://github.com/AMANVISHWAKARMA27)
+- 👨‍💻 All of my projects are available at [MY GITHUB](https://github.com/AMANVISHWAKARMA27).
 
 - 💬 Ask me about **Web Development and Competitive Programming**
 
 - 📫 How to reach me **vishwakarmarambhawan576@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-aman-eta.vercel.app](https://portfolio-aman-eta.vercel.app)
+- 📄 Know about my experiences [My Portfolio Website](https://portfolio-aman-eta.vercel.app)
 
 - ⚡ Fun fact **I once used to think I don't like my field:)**
 
